@@ -9,7 +9,7 @@ Let's start by loading our packages and loading the dataset.
 ```{r Load Data}
 library(quanteda); library(tidyverse); library(RColorBrewer)
 
-dataset <- read_csv("./articles-greencomputing.csv")
+dataset <- read_csv("./articles-samples.csv")
 
 #create corpus
 myCorpus <- corpus(dataset$Abstract)

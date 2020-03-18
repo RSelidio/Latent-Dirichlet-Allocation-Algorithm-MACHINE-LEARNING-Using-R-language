@@ -18,7 +18,7 @@
 ### Words that are related to other topics
 ![Topics](https://user-images.githubusercontent.com/59985283/77003771-eec42980-6998-11ea-85f9-7d4474406b96.png)
 
----
+
 
 ### Sentiment Scores from all the topics
 ![sentiment score](https://user-images.githubusercontent.com/59985283/77003786-f4217400-6998-11ea-91cd-8f7282953f22.png)
@@ -29,7 +29,7 @@
 #### The numerical statistic that is intended to reflect how important a word is to a document in a collection or corpus.
 ![TF-IDF Frequency Weighting](https://user-images.githubusercontent.com/59985283/77003792-f683ce00-6998-11ea-8a3f-4741546a97ac.png)
 
-<p>&nbsp;</p>
+---
 
 ### Word Cloud of the top words from the topic
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/59985283/77000963-22508500-6994-11ea-8715-e89d3cf7625c.gif)

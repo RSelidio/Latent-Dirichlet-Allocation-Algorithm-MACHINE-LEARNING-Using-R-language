@@ -1,6 +1,6 @@
 # Latent-Dirichlet-Allocation-Algorithm-MACHINE-LEARNING-Using-R-language
 
-##LDA Topic Modeling - Visualization
+## LDA Topic Modeling - Visualization
 ![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/59985283/77004911-db19c280-699a-11ea-8b58-f6e874ef0381.gif)
 
 

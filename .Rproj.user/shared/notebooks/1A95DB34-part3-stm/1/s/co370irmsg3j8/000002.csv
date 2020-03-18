@@ -1,0 +1,17 @@
+"0","# time"
+"0","par(mfrow = c(1, 1), mar = c(4, 4, 2, 2))"
+"0","i <- c(9, 18)"
+"0","plot("
+"0","  prep,"
+"0","  ""Year"","
+"0","  method = ""continuous"","
+"0","  topics = i,"
+"0","  main = ""Topics 9 and 18 by Year"","
+"0","  printlegend = T,"
+"0","  ylab = ""Exp. Topic Prob"","
+"0","  xlab = ""Year"","
+"0","  ylim = c(-0.01, 0.16)"
+"0",")"
+"2","Error in plot(prep, ""Year"", method = ""continuous"", topics = i, main = ""Topics 9 and 18 by Year"",  : 
+  object 'prep' not found
+"

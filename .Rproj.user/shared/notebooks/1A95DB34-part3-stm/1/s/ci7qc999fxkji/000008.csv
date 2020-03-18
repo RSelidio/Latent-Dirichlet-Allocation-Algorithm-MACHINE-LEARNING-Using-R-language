@@ -1,0 +1,2 @@
+"0",""
+"0","out <- prepDocuments(stmdfm$documents, stmdfm$vocab, stmdfm$meta, lower.thresh = 5)"

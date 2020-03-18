@@ -1,0 +1,7 @@
+"0","k <- 40"
+"0","load(""./stmFit.RData"")"
+"0",""
+"0","#stmFit <- stm(out$documents, out$vocab, K = k, prevalence =~ s(Year) + Subject, "
+"0","#              max.em.its = 150, data = out$meta, init.type = ""Spectral"", seed = 300)"
+"0",""
+"0","#save(stmFit, file = ""./stmFit.RData"")"

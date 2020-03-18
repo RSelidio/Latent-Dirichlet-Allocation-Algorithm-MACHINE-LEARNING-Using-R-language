@@ -1,0 +1,4 @@
+"0","library(stm)"
+"0",""
+"0","# use quanteda converter to convert our Dfm"
+"0","stmdfm <- convert(dfm, to = ""stm"", docvars = docvars(myCorpus))"

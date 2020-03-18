@@ -1,0 +1,7 @@
+"0","plot(stmFit, "
+"0","         type = ""summary"", "
+"0","         xlim = c(0,.16), "
+"0","         n = 5, "
+"0","         labeltype = ""prob"","
+"0","         main = ""UNCC Research Topics"", "
+"0","         text.cex = 0.8)"

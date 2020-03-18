@@ -1,0 +1,8 @@
+"0","filter.topic <- ""Topic 1"""
+"0",""
+"0","row <- order(-probtopics[,filter.topic])[1]"
+"0","dataset$Abstract[row]"
+"1","[1]"
+"1"," ""Green Computing: The Overview of Awareness, Practices and Responsibility Among Students in Higher Education Institutes"""
+"1","
+"

@@ -1,0 +1,6 @@
+"0","#Create Json for LDAVis"
+"0","library(LDAvis)"
+"0","source('./functions.R')"
+"0","json <- topicmodels_json_ldavis(lda,vdfm,dtm)"
+"2","Error in FUN(content(x), ...) : unused argument (stopwords(""english""))
+"

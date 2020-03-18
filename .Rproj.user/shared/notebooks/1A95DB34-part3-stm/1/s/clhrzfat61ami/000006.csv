@@ -1,0 +1,4 @@
+"0","prep <- estimateEffect(1:k ~ Subject + s(Year), stmFit, meta = out$meta, uncertainty = ""Global"")"
+"2","Error in splineDesign(Aknots, x, ord) : 
+  length of 'derivs' is larger than length of 'x'
+"

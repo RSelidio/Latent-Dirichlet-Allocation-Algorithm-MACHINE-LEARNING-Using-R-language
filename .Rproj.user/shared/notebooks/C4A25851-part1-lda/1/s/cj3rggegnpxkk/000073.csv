@@ -1,0 +1,7 @@
+"0","numWords <- 5"
+"0",""
+"0","wordDfm <- dfm_sort(dfm_weight(vdfm, ""tfidf""))"
+"0","wordDfm <- t(wordDfm)[1:numWords,]  # keep the top numWords words"
+"0","wordDistMat <- dist(wordDfm)"
+"0","wordCluster <- hclust(wordDistMat)"
+"0","plot(wordCluster, xlab="""", main=""TF-IDF Frequency weighting (First 5 Words)"")"

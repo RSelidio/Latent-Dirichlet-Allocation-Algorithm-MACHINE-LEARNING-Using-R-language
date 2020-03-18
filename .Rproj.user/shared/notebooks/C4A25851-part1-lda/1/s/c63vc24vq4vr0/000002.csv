@@ -1,0 +1,8 @@
+"0","filter.topic <- ""Topic 1"""
+"0",""
+"0","row <- order(-probtopics[,filter.topic])[1]"
+"0","dataset$Abstract[row]"
+"1","[1]"
+"1"," ""SAVING THE PLANET: AN ASSESSMENT OF GREEN COMPUTING PRACTICE AMONG TERTIARY INSTITUTIONS IN GHANA"""
+"1","
+"

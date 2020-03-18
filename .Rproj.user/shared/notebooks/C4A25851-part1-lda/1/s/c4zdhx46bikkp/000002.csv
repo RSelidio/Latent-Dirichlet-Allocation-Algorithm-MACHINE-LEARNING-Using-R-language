@@ -1,0 +1,6 @@
+"0","library(quanteda); library(tidyverse); library(RColorBrewer)"
+"0",""
+"0","dataset <- read_csv(""./articles-greencomputing.csv"")"
+"0",""
+"0","#create corpus"
+"0","myCorpus <- corpus(dataset$Abstract)"

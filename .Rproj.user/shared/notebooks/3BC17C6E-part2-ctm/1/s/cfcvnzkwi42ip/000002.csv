@@ -1,0 +1,6 @@
+"0","library(quanteda); library(tidyverse); library(RColorBrewer); library(stm)"
+"0",""
+"0","dataset <- read_csv(""./articles-sample.csv"")"
+"0",""
+"0","#create corpus"
+"0","myCorpus <- corpus(dataset$Abstract)"

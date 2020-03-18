@@ -1,0 +1,4 @@
+"0","topicNames <- labelTopics(stmFit, n = 5)"
+"0","topic <- data.frame("
+"0","  TopicNumber = 1:k,"
+"0","  TopicProportions = colMeans(stmFit$theta))"

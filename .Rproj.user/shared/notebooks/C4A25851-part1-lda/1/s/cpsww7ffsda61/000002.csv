@@ -1,0 +1,8 @@
+"0","#Create Json for LDAVis"
+"0","library(LDAvis)"
+"0","source('./functions.R')"
+"0","json <- topicmodels_json_ldavis(lda,vdfm,dtm)"
+"0","new.order <- RJSONIO::fromJSON(json)$topic.order"
+"0",""
+"0","# change open.browser = TRUE to automatically open result in browser"
+"0","serVis(json, out.dir = 'unccResearch', open.browser = F)"

@@ -1,0 +1,5 @@
+"0","# to get topic probabilities per document"
+"0","postlist <- posterior(lda)"
+"0","probtopics <- data.frame(postlist$topics)"
+"0","probtopics <- probtopics[,new.order]"
+"0","colnames(probtopics) <- paste(""Topic"",1:K)"

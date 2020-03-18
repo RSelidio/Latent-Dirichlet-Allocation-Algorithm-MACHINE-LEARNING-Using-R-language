@@ -1,0 +1,8 @@
+"0","filter.topic <- ""Topic 1"""
+"0",""
+"0","row <- order(-probtopics[,filter.topic])[1]"
+"0","dataset$Abstract[row]"
+"1","[1]"
+"1"," ""Green Computing is the emerging computing technology. It is mainly used to save and protect environment as well as optimize energy consumption and try to keep green environment. It also refers to environmentally sustainable computing. Saving energy or reduction of carbon footprints is main aspects of Green Computing. This research is mainly focusing on to check awareness and usage of green computing with respect to gender. A questionnaire was prepared to check the level of awareness and usage of green computing. The questionnaires were given to 105 students. Now a days all students use computer for their study/ work. Less than 50% of all the students are aware about green computing it means most of the students are not aware about green computing. The research finding established that more awareness is required in order to make IT users to take greener approaches of using technology its peripherals devices. ____________________________________________________________________"""
+"1","
+"

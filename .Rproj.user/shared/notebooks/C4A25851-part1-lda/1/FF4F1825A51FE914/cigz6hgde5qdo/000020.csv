@@ -1,0 +1,14 @@
+"0","dfm <- dfm(myCorpus,"
+"0","           remove = c(stopwords(""english"")),"
+"0","                    c(stopwords("""")),"
+"0","          "
+"0","           ngrams=1L,"
+"0","           stem = F,"
+"0","           tolower = TRUE,"
+"0","           remove_numbers = TRUE, "
+"0","           remove_punct = TRUE,"
+"0","           remove_symbols = TRUE,"
+"0","                                )"
+"2","Error in dfm.tokens(tokens(x, ...), tolower = tolower, stem = stem, select = select,  : 
+  only one of select and remove may be supplied at once
+"

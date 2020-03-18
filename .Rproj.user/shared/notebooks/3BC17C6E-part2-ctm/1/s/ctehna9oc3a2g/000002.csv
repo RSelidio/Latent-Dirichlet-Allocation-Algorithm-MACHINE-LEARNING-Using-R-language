@@ -1,0 +1,5 @@
+"0","numWords <- 50"
+"0",""
+"0","wordDfm <- sort(weight(vdfm, ""tfidf""))"
+"2","Error in weight(vdfm, ""tfidf"") : could not find function ""weight""
+"

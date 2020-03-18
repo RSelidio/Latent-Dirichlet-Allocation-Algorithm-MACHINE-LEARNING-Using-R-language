@@ -1,10 +1,10 @@
 # Latent-Dirichlet-Allocation-Algorithm-MACHINE-LEARNING-Using-R-language
 
-## LDA Topic Modeling - Visualization
+### LDA Topic Modeling - Visualization
 ![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/59985283/77004911-db19c280-699a-11ea-8b58-f6e874ef0381.gif)
 
 
--Unsupervised Machine learning - Gathers the data from all the topics
+#### Unsupervised Machine learning - Gathers the data from all the topics
 ![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/59985283/76998933-d18b5d00-6990-11ea-91ae-5c5ef39c713f.gif)
 
 

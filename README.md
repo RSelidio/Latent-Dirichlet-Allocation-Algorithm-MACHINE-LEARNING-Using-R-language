@@ -8,3 +8,10 @@
 
 ![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/59985283/77003538-837a5780-6998-11ea-9c93-34a0d7240ae6.gif)
 
+![numberoftopic](https://user-images.githubusercontent.com/59985283/77003764-e9ff7580-6998-11ea-99c3-0a62f4aa8b9f.png)
+
+![Topics](https://user-images.githubusercontent.com/59985283/77003771-eec42980-6998-11ea-85f9-7d4474406b96.png)
+
+![sentiment score](https://user-images.githubusercontent.com/59985283/77003786-f4217400-6998-11ea-91cd-8f7282953f22.png)
+
+![TF-IDF Frequency Weighting](https://user-images.githubusercontent.com/59985283/77003792-f683ce00-6998-11ea-8a3f-4741546a97ac.png)

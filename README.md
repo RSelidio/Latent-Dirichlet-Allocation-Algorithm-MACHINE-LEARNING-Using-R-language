@@ -2,7 +2,7 @@
 
 
 -LDA Topic Modeling - Visualization
-![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/59985283/77003538-837a5780-6998-11ea-9c93-34a0d7240ae6.gif)
+(https://user-images.githubusercontent.com/59985283/77003538-837a5780-6998-11ea-9c93-34a0d7240ae6.gif)
 
 
 -Unsupervised Machine learning - Gathers the data from all the topics

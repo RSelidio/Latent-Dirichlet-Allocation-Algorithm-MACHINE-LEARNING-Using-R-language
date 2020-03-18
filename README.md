@@ -23,13 +23,13 @@
 ### Sentiment Scores from all the topics
 ![sentiment score](https://user-images.githubusercontent.com/59985283/77003786-f4217400-6998-11ea-91cd-8f7282953f22.png)
 
----
+***
 
 ### TF-IDF Frequency Weighting of the top words
 #### The numerical statistic that is intended to reflect how important a word is to a document in a collection or corpus.
 ![TF-IDF Frequency Weighting](https://user-images.githubusercontent.com/59985283/77003792-f683ce00-6998-11ea-8a3f-4741546a97ac.png)
 
----
+
 ___
 ___
 ### Word Cloud of the top words from the topic
